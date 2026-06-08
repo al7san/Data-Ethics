@@ -180,3 +180,41 @@ Based on the exam topic slides, prioritize:
 4. **For numerical answers:** Patent = 20 years. Cambridge Analytica = 87M users, $5B fine. Equifax = 147M people, $700M. ACM = 24 imperatives, 1992. 7 ML bias sources. 6 ethical theories.
 
 5. **When in doubt:** Connect to a real example from the slides. British Airways, Facebook, Equifax, Samsung/ChatGPT, Uber, Cambridge Analytica — these were used intentionally and may appear in questions.
+
+---
+
+## 📌 Additional Topics (Week 3, Privacy, Virtue Ethics)
+
+### Week 3 — DASCA & SDAIA AI Principles
+
+| What | Detail |
+|------|--------|
+| **DASCA** | Data Science Council of America — 8 principles |
+| **SDAIA AI Principles (2025)** | 7 principles — Human-Centricity, Fairness, Transparency, Privacy, Safety, Accountability, Sustainability |
+| **PDPL** | Saudi Personal Data Protection Law — equivalent to GDPR |
+| **Key link** | DASCA "Do No Harm" ↔ Consequentialism | SDAIA Transparency ↔ Black Box (Week 14) |
+
+### Privacy and Information Disclosure
+
+| What | Detail |
+|------|--------|
+| **GDPR breach notification** | 72 hours to supervisory authority |
+| **7 GDPR rights** | Access, Rectification, Erasure, Restriction, Portability, Object, Anti-automated decision |
+| **7 GDPR principles** | Lawfulness, Purpose limitation, Minimization, Accuracy, Storage limitation, Integrity, Accountability |
+| **5 C's of Data Ethics** | Consent, Clarity, Consistency, Control, Consequence |
+| **NDMO** | National Data Management Office (Saudi) — 4 data classification levels |
+| **DPO** | Data Privacy Officer — compliance overseer inside organization |
+| **Contextual Integrity** | Data flows ethically when matching original context norms |
+
+### Virtue Ethics
+
+| What | Detail |
+|------|--------|
+| **Origin** | Aristotle — character-based ethics |
+| **Core question** | "What kind of person should I be?" |
+| **Eudaimonia** | Human flourishing — the goal |
+| **Phronesis** | Practical wisdom — most important virtue for professionals |
+| **Golden Mean** | Virtue = balance between excess and deficiency |
+| **4 Cardinal Virtues** | Prudence, Justice, Fortitude, Temperance |
+| **Moral Exemplar** | Role model embodying virtues — in Week 14 + 16 best practices |
+| **Key contrast** | Deontology = rules | Consequentialism = outcomes | Virtue = character |
